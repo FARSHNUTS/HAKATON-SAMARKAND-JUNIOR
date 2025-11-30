@@ -1,0 +1,7 @@
+signalman
+janitor
+lightmechanic
+darkmechanic
+train
+manager
+helmet
